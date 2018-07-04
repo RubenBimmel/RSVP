@@ -1,0 +1,132 @@
+{
+  "passages": [
+    {
+      "text": "[Sarah]I asked what my coworkers would like as a theme.\n[Sarah]They proposed 'sexy professions'\n[Sarah]What do you think?\n\n[Afia]Absolutly terrible\n\n[[Why?]]\n[[I agree]]\n[[I disagree]]",
+      "links": [
+        {
+          "name": "Why?",
+          "link": "Why?",
+          "pid": "2"
+        },
+        {
+          "name": "I agree",
+          "link": "I agree",
+          "pid": "3"
+        },
+        {
+          "name": "I disagree",
+          "link": "I disagree",
+          "pid": "6"
+        }
+      ],
+      "name": "AFIA 2",
+      "pid": "1",
+      "position": {
+        "x": "395",
+        "y": "285"
+      }
+    },
+    {
+      "text": "[Sarah]Why?\n\n[Afia]cause our friends wont appreciate it\n[Afia]i dont like it as well\n[Afia]we shld dress traditional w/ hijab imo\n\n[[You're right]]\n[[Well that sucks]]\n[[I disagree, it'll be fine]]",
+      "links": [
+        {
+          "name": "You're right",
+          "link": "You're right",
+          "pid": "5"
+        },
+        {
+          "name": "Well that sucks",
+          "link": "Well that sucks",
+          "pid": "4"
+        },
+        {
+          "name": "I disagree, it'll be fine",
+          "link": "I disagree, it'll be fine",
+          "pid": "8"
+        }
+      ],
+      "name": "Why?",
+      "pid": "2",
+      "position": {
+        "x": "190",
+        "y": "433"
+      }
+    },
+    {
+      "text": "[Sarah]I agree\n[Sarah]Thing is, my coworkers have never seen me wear traditional clothing whatsoever.\n[Sarah]I don't wear a Hijab to work either.\n\n[Afia]Girl\n[Afia]u kidding me\n[Afia]listen\n[Afia]dont do the ridiculous sexy thing\n[Afia]stay traditional\n\n[Sarah]I'll think about it. ",
+      "name": "I agree",
+      "pid": "3",
+      "position": {
+        "x": "438",
+        "y": "752"
+      }
+    },
+    {
+      "text": "[Sarah]Well that sucks.\n\n[Afia]how so?\n\n[Sarah]Because I want Peter to think I'm pretty. \n[Sarah]Maybe... I want to look sexy. \n\n[Afia]stop it girl\n[Afia]didnt your parents teach you the muslim way\n[Afia]i wll pretend you didnt just say that\n",
+      "name": "Well that sucks",
+      "pid": "4",
+      "position": {
+        "x": "253",
+        "y": "716"
+      }
+    },
+    {
+      "text": "[Sarah]I agree\n[Sarah]Thing is, my coworkers have never seen me wear traditional clothing whatsoever.\n[Sarah]I don't wear a Hijab to work either.\n\n[Afia]Girl\n[Afia]u kidding me\n[Afia]listen\n[Afia]dont do the ridiculous sexy thing\n[Afia]stay traditional\n\n[Sarah]I'll think about it. ",
+      "name": "You're right",
+      "pid": "5",
+      "position": {
+        "x": "636",
+        "y": "704"
+      }
+    },
+    {
+      "text": "[Sarah]I disagree\n\n[Afia]LISTEN TO ME\n[Afia]our friends wont appreciate it\n[Afia]i dont like it as well\n[Afia]we shld dress traditional w/ hijab imo\n\n[[You're right]]\n[[Well that sucks]]\n[[I still don't agree]]",
+      "links": [
+        {
+          "name": "You're right",
+          "link": "You're right",
+          "pid": "5"
+        },
+        {
+          "name": "Well that sucks",
+          "link": "Well that sucks",
+          "pid": "4"
+        },
+        {
+          "name": "I still don't agree",
+          "link": "I still don't agree",
+          "pid": "7"
+        }
+      ],
+      "name": "I disagree",
+      "pid": "6",
+      "position": {
+        "x": "608",
+        "y": "438"
+      }
+    },
+    {
+      "text": "[Sarah]I still don't agree.\n\n[Afia]stop it girl\n[Afia]didnt your parents teach you the muslim way\n[Afia]i wll pretend you didnt just say that\n",
+      "name": "I still don't agree",
+      "pid": "7",
+      "position": {
+        "x": "872",
+        "y": "620"
+      }
+    },
+    {
+      "text": "[Sarah]I disagree. \n[Sarah]Our friends will manage\n\n[Afia]stop it girl\n[Afia]didnt your parents teach you the muslim way\n[Afia]i wll pretend you didnt just say that\n",
+      "name": "I disagree, it'll be fine",
+      "pid": "8",
+      "position": {
+        "x": "83",
+        "y": "626"
+      }
+    }
+  ],
+  "name": "AFIA 2",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "4944BE26-CB4B-4BD8-B982-7D7D8DA22C66"
+}

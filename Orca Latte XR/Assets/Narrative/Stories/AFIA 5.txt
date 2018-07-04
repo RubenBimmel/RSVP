@@ -1,0 +1,165 @@
+{
+  "passages": [
+    {
+      "text": "[[About air bandung...]]\n[[About alcohol...]]",
+      "links": [
+        {
+          "name": "About air bandung...",
+          "link": "About air bandung...",
+          "pid": "2"
+        },
+        {
+          "name": "About alcohol...",
+          "link": "About alcohol...",
+          "pid": "8"
+        }
+      ],
+      "name": "AFIA 5",
+      "pid": "1",
+      "position": {
+        "x": "340",
+        "y": "473"
+      }
+    },
+    {
+      "text": "[Sarah]You sure air bandung will do the trick as a party drink?\n\n[Afia]yeah sure \n[Afia]why wouldnt it be\n\n[[It's so... pink]]\n[[Not everyone is in for a milk drink]]\n[[You're right, it's a good idea]]\n[[About alcohol...]] ",
+      "links": [
+        {
+          "name": "It's so... pink",
+          "link": "It's so... pink",
+          "pid": "5"
+        },
+        {
+          "name": "Not everyone is in for a milk drink",
+          "link": "Not everyone is in for a milk drink",
+          "pid": "6"
+        },
+        {
+          "name": "You're right, it's a good idea",
+          "link": "You're right, it's a good idea",
+          "pid": "7"
+        },
+        {
+          "name": "About alcohol...",
+          "link": "About alcohol...",
+          "pid": "8"
+        }
+      ],
+      "name": "About air bandung...",
+      "pid": "2",
+      "position": {
+        "x": "173",
+        "y": "647"
+      }
+    },
+    {
+      "text": "[Sarah]But like all of my coworkers and Peter kind of expect alcohol\n[Sarah]It's not something that's easily avoided\n\n[Afia]make it happen girl\n[Afia]alcohol is a no-go\n",
+      "name": "But...",
+      "pid": "3",
+      "position": {
+        "x": "720",
+        "y": "849"
+      }
+    },
+    {
+      "text": "[Sarah]Alright, got it. \n\n[Afia]good girl ;)",
+      "name": "Got it",
+      "pid": "4",
+      "position": {
+        "x": "868",
+        "y": "787"
+      }
+    },
+    {
+      "text": "[Sarah]It's so... pink\n\n[Afia]thats the thing about it \n[Afia]what gives it so much charm\n\n[[About alcohol...]] \n[[You're right, it's a good idea]] ",
+      "links": [
+        {
+          "name": "About alcohol...",
+          "link": "About alcohol...",
+          "pid": "8"
+        },
+        {
+          "name": "You're right, it's a good idea",
+          "link": "You're right, it's a good idea",
+          "pid": "7"
+        }
+      ],
+      "name": "It's so... pink",
+      "pid": "5",
+      "position": {
+        "x": "73",
+        "y": "832"
+      }
+    },
+    {
+      "text": "[Sarah]Not everyone is in for a milk drink\n\n[Afia]thats the thing about it \n[Afia]what gives it so much charm\n[Afia]milk... but better\n\n[[About alcohol...]] \n[[You're right, it's a good idea]] ",
+      "links": [
+        {
+          "name": "About alcohol...",
+          "link": "About alcohol...",
+          "pid": "8"
+        },
+        {
+          "name": "You're right, it's a good idea",
+          "link": "You're right, it's a good idea",
+          "pid": "7"
+        }
+      ],
+      "name": "Not everyone is in for a milk drink",
+      "pid": "6",
+      "position": {
+        "x": "195",
+        "y": "933"
+      }
+    },
+    {
+      "text": "[Sarah]You're right, it's a good idea\n\n[Afia]good girl ;)",
+      "name": "You're right, it's a good idea",
+      "pid": "7",
+      "position": {
+        "x": "495",
+        "y": "775"
+      }
+    },
+    {
+      "text": "[Sarah]Do you think it's okay to get drinks with alcohol?\n[Sarah]Like wodka or beer?\n\n[Afia]noooooooooo girl\n[Afia]alcohol is against islam\n[Afia]it would be disrespectful to have it on your party\n[Afia]even if its not for us\n\n[[But...]]\n[[I will get alcoholic drinks]]\n[[Got it]]",
+      "links": [
+        {
+          "name": "But...",
+          "link": "But...",
+          "pid": "3"
+        },
+        {
+          "name": "I will get alcoholic drinks",
+          "link": "I will get alcoholic drinks",
+          "pid": "9"
+        },
+        {
+          "name": "Got it",
+          "link": "Got it",
+          "pid": "4"
+        }
+      ],
+      "name": "About alcohol...",
+      "pid": "8",
+      "position": {
+        "x": "543",
+        "y": "628"
+      }
+    },
+    {
+      "text": "[Sarah]I will get alcoholic drinks \n[Sarah]Just cut yourself loose\n[Sarah]You might enjoy it\n\n[Afia]GIRL\n[Afia]why dont you understand\n[Afia]alcohol is a no-go",
+      "name": "I will get alcoholic drinks",
+      "pid": "9",
+      "position": {
+        "x": "915",
+        "y": "620"
+      }
+    }
+  ],
+  "name": "AFIA 5",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "9B41D1EE-9EB1-4B55-96C6-2A4DD36B0273"
+}

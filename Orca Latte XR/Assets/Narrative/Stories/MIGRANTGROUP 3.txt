@@ -1,0 +1,18 @@
+{
+  "passages": [
+    {
+      "text": "[Sarah]How do you guys think about bitterballen?\n\n[Afia]no thanks\n\n[Adnan]no there's meat in there. not hallal\n\n[Mohammed]it would actually be somewhat insulting to have meat in the party\n[Mohammed]since its in contrast to our beliefs\n\n[Ibrahim]durian is fine\n\n[Mira]i agree with Mohammed, therefore it should be durian. \n\n[Afia]yes durian!\n\n[Ahmad]durian \n\n[Mohammed]Durian\n\n[Adnan]Duriannnn\n\n\n\n",
+      "name": "MIGRANTVRIENDEN 3",
+      "pid": "1",
+      "position": {
+        "x": "145",
+        "y": "453"
+      }
+    }
+  ],
+  "name": "MIGRANTVRIENDEN 3",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "D698E6B4-E294-45DB-A992-6AD97DD4AB30"
+}

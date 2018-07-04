@@ -1,0 +1,236 @@
+{
+  "passages": [
+    {
+      "text": "[Sarah]OH MY GOD \n[Sarah]I TOTALLY FORGOT\n[Sarah]I'm hosting a party tonight!!\n\n[Afia]oooooooo\n[Afia]u forgot??\n\n[[Had tons of overwork this week]]\n[[I'm forgetful]]\n[[You could have reminded me!]]",
+      "links": [
+        {
+          "name": "Had tons of overwork this week",
+          "link": "Had tons of overwork this week",
+          "pid": "2"
+        },
+        {
+          "name": "I'm forgetful",
+          "link": "I'm forgetful",
+          "pid": "3"
+        },
+        {
+          "name": "You could have reminded me!",
+          "link": "You could have reminded me!",
+          "pid": "10"
+        }
+      ],
+      "name": "AFIA",
+      "pid": "1",
+      "position": {
+        "x": "412",
+        "y": "83"
+      }
+    },
+    {
+      "text": "[Sarah]Had tons of overwork this week. \n[Sarah]Totally slipped my mind. \n[Sarah]Got reminded at work, someone asked me what time it starts\n[Sarah]Acted like I had it all figured out\n\n[Afia]relax S\n[Afia]u will be fine\n\n[[I will not be fine]]\n[[I'll do my best]]\n[[I'm going to succeed]]",
+      "links": [
+        {
+          "name": "I will not be fine",
+          "link": "I will not be fine",
+          "pid": "4"
+        },
+        {
+          "name": "I'll do my best",
+          "link": "I'll do my best",
+          "pid": "5"
+        },
+        {
+          "name": "I'm going to succeed",
+          "link": "I'm going to succeed",
+          "pid": "11"
+        }
+      ],
+      "name": "Had tons of overwork this week",
+      "pid": "2",
+      "position": {
+        "x": "210",
+        "y": "226"
+      }
+    },
+    {
+      "text": "[Sarah]I'm super forgetful about these things\n[Sarah]Got reminded at work, someone asked me what time it starts\n[Sarah]Acted like I had it all figured out\n\n[Afia]relax S\n[Afia]u will be fine\n\n[[I will not be fine]]\n[[I'll do my best]]\n[[I'm going to succeed]]",
+      "links": [
+        {
+          "name": "I will not be fine",
+          "link": "I will not be fine",
+          "pid": "4"
+        },
+        {
+          "name": "I'll do my best",
+          "link": "I'll do my best",
+          "pid": "5"
+        },
+        {
+          "name": "I'm going to succeed",
+          "link": "I'm going to succeed",
+          "pid": "11"
+        }
+      ],
+      "name": "I'm forgetful",
+      "pid": "3",
+      "position": {
+        "x": "443",
+        "y": "239"
+      }
+    },
+    {
+      "text": "[Sarah]How can I ever be fine about this?\n[Sarah]I just came home from work\n[Sarah]It's 7:30. Party starts at 9 :(\n\n[Afia]I know u girl\n[Afia]U will make it happen\n\n[[If I succeed...]]\n[[If I fail...]]",
+      "links": [
+        {
+          "name": "If I succeed...",
+          "link": "If I succeed...",
+          "pid": "6"
+        },
+        {
+          "name": "If I fail...",
+          "link": "If I fail...",
+          "pid": "7"
+        }
+      ],
+      "name": "I will not be fine",
+      "pid": "4",
+      "position": {
+        "x": "291",
+        "y": "475"
+      }
+    },
+    {
+      "text": "[Sarah]I'll do my best\n[Sarah]Just came home from work\n[Sarah]It's 7:30. Party starts at 9 :(\n\n[Afia]i know u girl\n[Afia]u will make it happen\n\n[[If I succeed...]]\n[[If I fail...]]\n",
+      "links": [
+        {
+          "name": "If I succeed...",
+          "link": "If I succeed...",
+          "pid": "6"
+        },
+        {
+          "name": "If I fail...",
+          "link": "If I fail...",
+          "pid": "7"
+        }
+      ],
+      "name": "I'll do my best",
+      "pid": "5",
+      "position": {
+        "x": "481",
+        "y": "473"
+      }
+    },
+    {
+      "text": "[Sarah]You know, if I succeed\n[Sarah]My coworkers, boss and my friends are gonna love me\n[Sarah]I'll make a mark\n\n[Afia]U WILL SUCCEED! \n[Afia]what do u need to prepare\n\n[[I don't know where to begin]]\n[[What do you suggest?]]",
+      "links": [
+        {
+          "name": "I don't know where to begin",
+          "link": "I don't know where to begin",
+          "pid": "8"
+        },
+        {
+          "name": "What do you suggest?",
+          "link": "What do you suggest?",
+          "pid": "9"
+        }
+      ],
+      "name": "If I succeed...",
+      "pid": "6",
+      "position": {
+        "x": "369",
+        "y": "741"
+      }
+    },
+    {
+      "text": "[Sarah]You know, if I fail\n[Sarah]My coworkers, boss and my friends are gonna hate me.\n[Sarah]This is my one time to show off!\n\n[Afia]U WILL SUCCEED! \n[Afia]please u need to calm down\n[Afia]what do u need to prepare\n\n[[I don't know where to begin]]\n[[What do you suggest?]]",
+      "links": [
+        {
+          "name": "I don't know where to begin",
+          "link": "I don't know where to begin",
+          "pid": "8"
+        },
+        {
+          "name": "What do you suggest?",
+          "link": "What do you suggest?",
+          "pid": "9"
+        }
+      ],
+      "name": "If I fail...",
+      "pid": "7",
+      "position": {
+        "x": "618",
+        "y": "741"
+      }
+    },
+    {
+      "text": "[Sarah]I don't know where to begin\n\n[Afia]just start with the theme\n[Afia]work ur way up\n[Afia]app some folks\n[Afia]find out what everyone wants\n\n[Sarah]Thanks girl\n[Sarah]Will do!\n",
+      "name": "I don't know where to begin",
+      "pid": "8",
+      "position": {
+        "x": "356",
+        "y": "981"
+      }
+    },
+    {
+      "text": "[Sarah]What do you suggest?\n\n[Afia]just start with the theme\n[Afia]work ur way up\n[Afia]app some folks\n[Afia]find out what everyone wants\n\n[Sarah]Thanks girl\n[Sarah]Will do!\n",
+      "name": "What do you suggest?",
+      "pid": "9",
+      "position": {
+        "x": "595",
+        "y": "973"
+      }
+    },
+    {
+      "text": "[Sarah]You could have reminded me you know\n\n[Afia]now dont make this about me\n[Afia]girl :(\n\n[Sarah]Sorry, I just hate this. \n[Sarah]Got reminded at work, someone asked me what time it starts\n[Sarah]Acted like I had it all figured out\n\n[Afia]relax S\n[Afia]u will be fine\n\n[[I will not be fine]]\n[[I'll do my best]]\n[[I'm going to succeed]]",
+      "links": [
+        {
+          "name": "I will not be fine",
+          "link": "I will not be fine",
+          "pid": "4"
+        },
+        {
+          "name": "I'll do my best",
+          "link": "I'll do my best",
+          "pid": "5"
+        },
+        {
+          "name": "I'm going to succeed",
+          "link": "I'm going to succeed",
+          "pid": "11"
+        }
+      ],
+      "name": "You could have reminded me!",
+      "pid": "10",
+      "position": {
+        "x": "689",
+        "y": "221"
+      }
+    },
+    {
+      "text": "[Sarah]I'm going to succeed\n[Sarah]Just like I always do ;)\n[Sarah]Okay, so, just came home from work\n[Sarah]It's 7:30. Party starts at 9\n\n[Afia]i know u girl\n[Afia]u will make it happen\n\n[[If I succeed...]]\n[[If I fail...]]",
+      "links": [
+        {
+          "name": "If I succeed...",
+          "link": "If I succeed...",
+          "pid": "6"
+        },
+        {
+          "name": "If I fail...",
+          "link": "If I fail...",
+          "pid": "7"
+        }
+      ],
+      "name": "I'm going to succeed",
+      "pid": "11",
+      "position": {
+        "x": "657",
+        "y": "471"
+      }
+    }
+  ],
+  "name": "AFIA 1",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "42620D77-4AD5-42A6-BB5D-2EC2A8BB05F0"
+}

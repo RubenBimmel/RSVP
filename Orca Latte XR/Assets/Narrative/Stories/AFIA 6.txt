@@ -1,0 +1,255 @@
+{
+  "passages": [
+    {
+      "text": "[[No, come on!]]\n[[Please, talk to me]]\n[[You can't do this!]]\n",
+      "links": [
+        {
+          "name": "No, come on!",
+          "link": "No, come on!",
+          "pid": "2"
+        },
+        {
+          "name": "Please, talk to me",
+          "link": "Please, talk to me",
+          "pid": "3"
+        },
+        {
+          "name": "You can't do this!",
+          "link": "You can't do this!",
+          "pid": "4"
+        }
+      ],
+      "name": "AFIA 6",
+      "pid": "1",
+      "position": {
+        "x": "669",
+        "y": "278"
+      }
+    },
+    {
+      "text": "[Sarah]No, come on!\n[Sarah]You can't just stop talking to me!\n\n[[Afia!!]]\n[[Girl!!]]",
+      "links": [
+        {
+          "name": "Afia!!",
+          "link": "Afia!!",
+          "pid": "5"
+        },
+        {
+          "name": "Girl!!",
+          "link": "Girl!!",
+          "pid": "6"
+        }
+      ],
+      "name": "No, come on!",
+      "pid": "2",
+      "position": {
+        "x": "518",
+        "y": "438"
+      }
+    },
+    {
+      "text": "[Sarah]Please, talk to me\n\n[[Afia!!]] \n[[Girl!!]] ",
+      "links": [
+        {
+          "name": "Afia!!",
+          "link": "Afia!!",
+          "pid": "5"
+        },
+        {
+          "name": "Girl!!",
+          "link": "Girl!!",
+          "pid": "6"
+        }
+      ],
+      "name": "Please, talk to me",
+      "pid": "3",
+      "position": {
+        "x": "675",
+        "y": "437"
+      }
+    },
+    {
+      "text": "[Sarah]You can't do this!\n\n[[Afia!!]] \n[[Girl!!]] \n",
+      "links": [
+        {
+          "name": "Afia!!",
+          "link": "Afia!!",
+          "pid": "5"
+        },
+        {
+          "name": "Girl!!",
+          "link": "Girl!!",
+          "pid": "6"
+        }
+      ],
+      "name": "You can't do this!",
+      "pid": "4",
+      "position": {
+        "x": "818",
+        "y": "438"
+      }
+    },
+    {
+      "text": "[Sarah]Afia!!\n\n[[You're wrong]]\n[[I'm sorry]]\n[[Won't ever do it again]]\n",
+      "links": [
+        {
+          "name": "You're wrong",
+          "link": "You're wrong",
+          "pid": "7"
+        },
+        {
+          "name": "I'm sorry",
+          "link": "I'm sorry",
+          "pid": "8"
+        },
+        {
+          "name": "Won't ever do it again",
+          "link": "Won't ever do it again",
+          "pid": "9"
+        }
+      ],
+      "name": "Afia!!",
+      "pid": "5",
+      "position": {
+        "x": "497",
+        "y": "676"
+      }
+    },
+    {
+      "text": "[Sarah]Girl!!\n\n[[You're wrong]]\n[[I'm sorry]]\n[[Won't ever do it again]]",
+      "links": [
+        {
+          "name": "You're wrong",
+          "link": "You're wrong",
+          "pid": "7"
+        },
+        {
+          "name": "I'm sorry",
+          "link": "I'm sorry",
+          "pid": "8"
+        },
+        {
+          "name": "Won't ever do it again",
+          "link": "Won't ever do it again",
+          "pid": "9"
+        }
+      ],
+      "name": "Girl!!",
+      "pid": "6",
+      "position": {
+        "x": "894",
+        "y": "677"
+      }
+    },
+    {
+      "text": "[Sarah]You're wrong, you know. \n[Sarah]It was a great party. \n\n[[Come on, talk to me]]\n[[Silence won't solve anything]]\n[[I'll call you later today]]",
+      "links": [
+        {
+          "name": "Come on, talk to me",
+          "link": "Come on, talk to me",
+          "pid": "10"
+        },
+        {
+          "name": "Silence won't solve anything",
+          "link": "Silence won't solve anything",
+          "pid": "11"
+        },
+        {
+          "name": "I'll call you later today",
+          "link": "I'll call you later today",
+          "pid": "12"
+        }
+      ],
+      "name": "You're wrong",
+      "pid": "7",
+      "position": {
+        "x": "455",
+        "y": "965"
+      }
+    },
+    {
+      "text": "[Sarah]I'm sorry. \n[Sarah]I made bad choices. \n[Sarah]Please, forgive me. \n\n[[Come on, talk to me]]\n[[Silence won't solve anything]]\n[[I'll call you later today]]",
+      "links": [
+        {
+          "name": "Come on, talk to me",
+          "link": "Come on, talk to me",
+          "pid": "10"
+        },
+        {
+          "name": "Silence won't solve anything",
+          "link": "Silence won't solve anything",
+          "pid": "11"
+        },
+        {
+          "name": "I'll call you later today",
+          "link": "I'll call you later today",
+          "pid": "12"
+        }
+      ],
+      "name": "I'm sorry",
+      "pid": "8",
+      "position": {
+        "x": "696",
+        "y": "980"
+      }
+    },
+    {
+      "text": "[Sarah]I won't ever do it again. \n[Sarah]Next time I will listen. \n[Sarah]Please girl, forgive me. \n\n[[Come on, talk to me]]\n[[Silence won't solve anything]]\n[[I'll call you later today]]",
+      "links": [
+        {
+          "name": "Come on, talk to me",
+          "link": "Come on, talk to me",
+          "pid": "10"
+        },
+        {
+          "name": "Silence won't solve anything",
+          "link": "Silence won't solve anything",
+          "pid": "11"
+        },
+        {
+          "name": "I'll call you later today",
+          "link": "I'll call you later today",
+          "pid": "12"
+        }
+      ],
+      "name": "Won't ever do it again",
+      "pid": "9",
+      "position": {
+        "x": "900",
+        "y": "985"
+      }
+    },
+    {
+      "text": "[Sarah]Come on, talk to me",
+      "name": "Come on, talk to me",
+      "pid": "10",
+      "position": {
+        "x": "507",
+        "y": "1258"
+      }
+    },
+    {
+      "text": "[Sarah]Silence won't solve anything",
+      "name": "Silence won't solve anything",
+      "pid": "11",
+      "position": {
+        "x": "719",
+        "y": "1274"
+      }
+    },
+    {
+      "text": "[Sarah]I'll call you later today\n\n[Afia]dont. ",
+      "name": "I'll call you later today",
+      "pid": "12",
+      "position": {
+        "x": "913",
+        "y": "1258"
+      }
+    }
+  ],
+  "name": "AFIA 6",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "591F79EB-5E8D-49E7-AB26-0E665BCDEA0C"
+}

@@ -1,0 +1,140 @@
+{
+  "passages": [
+    {
+      "text": "[Afia]so whaddayaknow \n[Afia]everyone thinks durian fruits are a good idea\n\n[[I have some concerns]]\n[[You should have asked me before asking them!]]\n[[This is a no-go]]",
+      "links": [
+        {
+          "name": "I have some concerns",
+          "link": "I have some concerns",
+          "pid": "2"
+        },
+        {
+          "name": "You should have asked me before asking them!",
+          "link": "You should have asked me before asking them!",
+          "pid": "3"
+        },
+        {
+          "name": "This is a no-go",
+          "link": "This is a no-go",
+          "pid": "7"
+        }
+      ],
+      "name": "AFIA 4",
+      "pid": "1",
+      "position": {
+        "x": "446",
+        "y": "493"
+      }
+    },
+    {
+      "text": "[Sarah]I have some concerns\n[Sarah]Durian fruits have a strong, horrendous smell\n[Sarah]Like overused gym socks\n[Sarah]I mean, I don't want to host a party that smells like socks\n\n[Afia]yeah but the taste is worth is\n\n[[I'm worried about it]]\n[[It's not worth it]]\n[[Fine, I'll ask what the rest wants]]",
+      "links": [
+        {
+          "name": "I'm worried about it",
+          "link": "I'm worried about it",
+          "pid": "4"
+        },
+        {
+          "name": "It's not worth it",
+          "link": "It's not worth it",
+          "pid": "5"
+        },
+        {
+          "name": "Fine, I'll ask what the rest wants",
+          "link": "Fine, I'll ask what the rest wants",
+          "pid": "6"
+        }
+      ],
+      "name": "I have some concerns",
+      "pid": "2",
+      "position": {
+        "x": "220",
+        "y": "661"
+      }
+    },
+    {
+      "text": "[Sarah]You should have asked me before asking them!\n[Sarah]You just made Durian a thing\n[Sarah]I mean\n[Sarah]Durian fruits have a strong, horrendous smell\n[Sarah]Like overused gym socks\n[Sarah]I don't want to host a sock party\n\n[Afia]yeah but the taste is worth is\n\n[[I'm worried about it]]\n[[It's not worth it]]\n[[Fine, I'll ask what the rest wants]]",
+      "links": [
+        {
+          "name": "I'm worried about it",
+          "link": "I'm worried about it",
+          "pid": "4"
+        },
+        {
+          "name": "It's not worth it",
+          "link": "It's not worth it",
+          "pid": "5"
+        },
+        {
+          "name": "Fine, I'll ask what the rest wants",
+          "link": "Fine, I'll ask what the rest wants",
+          "pid": "6"
+        }
+      ],
+      "name": "You should have asked me before asking them!",
+      "pid": "3",
+      "position": {
+        "x": "697",
+        "y": "659"
+      }
+    },
+    {
+      "text": "[Sarah]I'm worried about it\n\n[Afia]dont be like this girl\n[Afia]give the people what they want \n[Afia]then all will be fine",
+      "name": "I'm worried about it",
+      "pid": "4",
+      "position": {
+        "x": "243",
+        "y": "953"
+      }
+    },
+    {
+      "text": "[Sarah]It's not worth it. \n\n[Afia]just get the fruits\n[Afia]the people have spokennn",
+      "name": "It's not worth it",
+      "pid": "5",
+      "position": {
+        "x": "468",
+        "y": "970"
+      }
+    },
+    {
+      "text": "[Sarah]Fine, I'll ask what the rest wants\n\n[Afia]but the people have already spoken girllll",
+      "name": "Fine, I'll ask what the rest wants",
+      "pid": "6",
+      "position": {
+        "x": "695",
+        "y": "937"
+      }
+    },
+    {
+      "text": "[Sarah]This is a no-go\n[Sarah]I mean\n[Sarah]Durian fruits have a strong, horrendous smell\n[Sarah]Like overused gym socks\n[Sarah]I don't want to host a sock party\n\n[Afia]yeah but the taste is worth is\n\n[[I'm worried about it]]\n[[It's not worth it]]\n[[Fine, I'll ask what the rest wants]]",
+      "links": [
+        {
+          "name": "I'm worried about it",
+          "link": "I'm worried about it",
+          "pid": "4"
+        },
+        {
+          "name": "It's not worth it",
+          "link": "It's not worth it",
+          "pid": "5"
+        },
+        {
+          "name": "Fine, I'll ask what the rest wants",
+          "link": "Fine, I'll ask what the rest wants",
+          "pid": "6"
+        }
+      ],
+      "name": "This is a no-go",
+      "pid": "7",
+      "position": {
+        "x": "444",
+        "y": "682"
+      }
+    }
+  ],
+  "name": "AFIA 4",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "46210FCD-7FC9-4FE0-9CDC-80F2264F2B4B"
+}

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GamePhone.App">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Phone\Apps\App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.CameraApp">
+    <Position X="18.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAAAAAAAAAAAAAAAQEAAAAAAAoAAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Phone\Apps\CameraApp\CameraApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.ChatApp">
+    <Position X="22.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIBEEQIAEAAAAAAEACIAAAEAFAAgAAABAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Phone\Apps\ChatApp\ChatApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.MessageScreen">
+    <Position X="25.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAEEAAAAABAAAgAEQAAAAgAAggAAACBIAAA=</HashCode>
+      <FileName>Assets\Scripts\Phone\Apps\ChatApp\MessageScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.SendBoxHandler">
+    <Position X="27.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAABAACALBAAAAAEAAAAAEAAAQAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Phone\Apps\ChatApp\SendBoxHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.UIContacts">
+    <Position X="25.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAACAAEAAAAAAAAAAAAgUAAEAAgAAAAIAABAIDA=</HashCode>
+      <FileName>Assets\Scripts\Phone\Apps\ChatApp\UIContacts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.GalleryApp">
+    <Position X="20.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAEAAIAIAAAAAAIAAAAAAAAAAEAAAAAAIAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Phone\Apps\GalleryApp\GalleryApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.Phone">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARQAAEAACFCIRYAQAAAAAAQiAAAAAEAAAAAAAAQIug=</HashCode>
+      <FileName>Assets\Scripts\Phone\System\Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.HomeScreen">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Phone\System\Screens\HomeScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.MultitaskingScreen">
+    <Position X="16" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAUIAIAEAAAAgAAAQAgAAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Phone\System\Screens\MultitaskingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePhone.Screen">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAIAAAAAAAAAAAAAAABAEAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Phone\System\Screens\Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,18 @@
+{
+  "passages": [
+    {
+      "text": "[Afia]so, about the food\n[Afia]do you still have those durian fruits?\n\n[Sarah]I believe so. \n\n[Afia]great!\n[Afia]you can use them as snacks",
+      "name": "AFIA 3",
+      "pid": "1",
+      "position": {
+        "x": "440",
+        "y": "322"
+      }
+    }
+  ],
+  "name": "AFIA 3",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "120AD3F1-761B-47F6-A36A-84B35F7348D4"
+}

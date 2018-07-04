@@ -1,0 +1,348 @@
+{
+  "passages": [
+    {
+      "text": "[[How are you?]]\n[[What did you think of the party?]]\n[[Are you awake?]]\n",
+      "links": [
+        {
+          "name": "How are you?",
+          "link": "How are you?",
+          "pid": "2"
+        },
+        {
+          "name": "What did you think of the party?",
+          "link": "What did you think of the party?",
+          "pid": "3"
+        },
+        {
+          "name": "Are you awake?",
+          "link": "Are you awake?",
+          "pid": "4"
+        }
+      ],
+      "name": "PETER 5",
+      "pid": "1",
+      "position": {
+        "x": "594",
+        "y": "485"
+      }
+    },
+    {
+      "text": "[Sarah]How are you?\n\n[Peter]Hey\n[Peter]im fine\n\n[[Is something wrong?]]\n[[You sure you're alright?]]\n[[What did you think of the party?]] ",
+      "links": [
+        {
+          "name": "Is something wrong?",
+          "link": "Is something wrong?",
+          "pid": "5"
+        },
+        {
+          "name": "You sure you're alright?",
+          "link": "You sure you're alright?",
+          "pid": "6"
+        },
+        {
+          "name": "What did you think of the party?",
+          "link": "What did you think of the party?",
+          "pid": "3"
+        }
+      ],
+      "name": "How are you?",
+      "pid": "2",
+      "position": {
+        "x": "398",
+        "y": "608"
+      }
+    },
+    {
+      "text": "[Sarah]What did you think of the party?\n\n[Peter]hey\n[Peter]the party was\n[Peter]fine\n\n[[What does that mean?]]\n[[Is something wrong?]] \n[[Tell me what's up]] ",
+      "links": [
+        {
+          "name": "What does that mean?",
+          "link": "What does that mean?",
+          "pid": "7"
+        },
+        {
+          "name": "Is something wrong?",
+          "link": "Is something wrong?",
+          "pid": "5"
+        },
+        {
+          "name": "Tell me what's up",
+          "link": "Tell me what's up",
+          "pid": "10"
+        }
+      ],
+      "name": "What did you think of the party?",
+      "pid": "3",
+      "position": {
+        "x": "569",
+        "y": "753"
+      }
+    },
+    {
+      "text": "[Sarah]Are you awake?\n\n[Peter]yes\n[Peter]what about you?\n\n[[I'm awake, dummy]]\n[[Everything alright?]]\n[[What did you think of the party?]]",
+      "links": [
+        {
+          "name": "I'm awake, dummy",
+          "link": "I'm awake, dummy",
+          "pid": "8"
+        },
+        {
+          "name": "Everything alright?",
+          "link": "Everything alright?",
+          "pid": "9"
+        },
+        {
+          "name": "What did you think of the party?",
+          "link": "What did you think of the party?",
+          "pid": "3"
+        }
+      ],
+      "name": "Are you awake?",
+      "pid": "4",
+      "position": {
+        "x": "844",
+        "y": "605"
+      }
+    },
+    {
+      "text": "[Sarah]Is something wrong?\n\n[Peter]well\n[Peter]do you really want to know?\n\n[[Yes, please]]\n[[Don't care]]\n[[Nope]]",
+      "links": [
+        {
+          "name": "Yes, please",
+          "link": "Yes, please",
+          "pid": "13"
+        },
+        {
+          "name": "Don't care",
+          "link": "Don't care",
+          "pid": "14"
+        },
+        {
+          "name": "Nope",
+          "link": "Nope",
+          "pid": "15"
+        }
+      ],
+      "name": "Is something wrong?",
+      "pid": "5",
+      "position": {
+        "x": "233",
+        "y": "1014"
+      }
+    },
+    {
+      "text": "[Sarah]You sure you're alright?\n\n[Peter]well\n[Peter]do you really want to know?\n\n[[Yes, please]]\n[[Don't care]]\n[[Nope]]",
+      "links": [
+        {
+          "name": "Yes, please",
+          "link": "Yes, please",
+          "pid": "13"
+        },
+        {
+          "name": "Don't care",
+          "link": "Don't care",
+          "pid": "14"
+        },
+        {
+          "name": "Nope",
+          "link": "Nope",
+          "pid": "15"
+        }
+      ],
+      "name": "You sure you're alright?",
+      "pid": "6",
+      "position": {
+        "x": "407",
+        "y": "999"
+      }
+    },
+    {
+      "text": "[Sarah]What does that mean?\n\n[Peter]well\n[Peter]do you really want to know?\n\n[[Yes, please]]\n[[Don't care]]\n[[Nope]]",
+      "links": [
+        {
+          "name": "Yes, please",
+          "link": "Yes, please",
+          "pid": "13"
+        },
+        {
+          "name": "Don't care",
+          "link": "Don't care",
+          "pid": "14"
+        },
+        {
+          "name": "Nope",
+          "link": "Nope",
+          "pid": "15"
+        }
+      ],
+      "name": "What does that mean?",
+      "pid": "7",
+      "position": {
+        "x": "557",
+        "y": "1015"
+      }
+    },
+    {
+      "text": "[Sarah]Of course I'm awake, dummy. \n[Sarah]Did you enjoy the party?\n\n[Peter]sure\n\n[[What does that mean?]] \n[[Is something wrong?]] \n[[Be honest with me]] ",
+      "links": [
+        {
+          "name": "What does that mean?",
+          "link": "What does that mean?",
+          "pid": "7"
+        },
+        {
+          "name": "Is something wrong?",
+          "link": "Is something wrong?",
+          "pid": "5"
+        },
+        {
+          "name": "Be honest with me",
+          "link": "Be honest with me",
+          "pid": "11"
+        }
+      ],
+      "name": "I'm awake, dummy",
+      "pid": "8",
+      "position": {
+        "x": "715",
+        "y": "765"
+      }
+    },
+    {
+      "text": "[Sarah]Is everything alright?\n\n[Peter]yes\n[Peter]im fine\n\n[[Tell me what's up]]\n[[Be honest with me]]\n[[Well. Guess I'm fine too]]",
+      "links": [
+        {
+          "name": "Tell me what's up",
+          "link": "Tell me what's up",
+          "pid": "10"
+        },
+        {
+          "name": "Be honest with me",
+          "link": "Be honest with me",
+          "pid": "11"
+        },
+        {
+          "name": "Well. Guess I'm fine too",
+          "link": "Well. Guess I'm fine too",
+          "pid": "12"
+        }
+      ],
+      "name": "Everything alright?",
+      "pid": "9",
+      "position": {
+        "x": "998",
+        "y": "839"
+      }
+    },
+    {
+      "text": "[Sarah]Tell me what's up\n\n[Peter]well\n[Peter]do you really want to know?\n\n[[Yes, please]]\n[[Don't care]]\n[[Nope]]",
+      "links": [
+        {
+          "name": "Yes, please",
+          "link": "Yes, please",
+          "pid": "13"
+        },
+        {
+          "name": "Don't care",
+          "link": "Don't care",
+          "pid": "14"
+        },
+        {
+          "name": "Nope",
+          "link": "Nope",
+          "pid": "15"
+        }
+      ],
+      "name": "Tell me what's up",
+      "pid": "10",
+      "position": {
+        "x": "707",
+        "y": "1013"
+      }
+    },
+    {
+      "text": "[Sarah]Come on.\n[Sarah]Be honest with me.\n\n[Peter]well\n[Peter]do you really want to know?\n\n[[Yes, please]]\n[[Don't care]]\n[[Nope]]",
+      "links": [
+        {
+          "name": "Yes, please",
+          "link": "Yes, please",
+          "pid": "13"
+        },
+        {
+          "name": "Don't care",
+          "link": "Don't care",
+          "pid": "14"
+        },
+        {
+          "name": "Nope",
+          "link": "Nope",
+          "pid": "15"
+        }
+      ],
+      "name": "Be honest with me",
+      "pid": "11",
+      "position": {
+        "x": "899",
+        "y": "1009"
+      }
+    },
+    {
+      "text": "[Sarah]Well. Guess I'm fine too\n\n[Peter]uhg, okay\n[Peter]i have something to tell you\n[Peter]do you really want to know?\n\n[[Yes, please]]\n[[Don't care]]\n[[Nope]]",
+      "links": [
+        {
+          "name": "Yes, please",
+          "link": "Yes, please",
+          "pid": "13"
+        },
+        {
+          "name": "Don't care",
+          "link": "Don't care",
+          "pid": "14"
+        },
+        {
+          "name": "Nope",
+          "link": "Nope",
+          "pid": "15"
+        }
+      ],
+      "name": "Well. Guess I'm fine too",
+      "pid": "12",
+      "position": {
+        "x": "1091",
+        "y": "1013"
+      }
+    },
+    {
+      "text": "[Sarah]Yes, please\n[Sarah]Tell me what's wrong.\n\n[Peter]im going to give you\n[Peter]my honest thoughts on the party",
+      "name": "Yes, please",
+      "pid": "13",
+      "position": {
+        "x": "706",
+        "y": "1300"
+      }
+    },
+    {
+      "text": "[Sarah]Don't care. \n[Sarah]Tell me or don't\n[Sarah]But stop acting all childish about it\n\n[Peter]im going to give you\n[Peter]my honest thoughts on the party",
+      "name": "Don't care",
+      "pid": "14",
+      "position": {
+        "x": "553",
+        "y": "1296"
+      }
+    },
+    {
+      "text": "[Sarah]Nope. \n[Sarah]If you're going to act all childish\n[Sarah]Then I don't want to know. \n\n[Peter]im going to give you\n[Peter]my honest thoughts on the party\n\n",
+      "name": "Nope",
+      "pid": "15",
+      "position": {
+        "x": "850",
+        "y": "1300"
+      }
+    }
+  ],
+  "name": "PETER 5",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "AF9C326E-C449-4637-A689-D11EBC1555D0"
+}

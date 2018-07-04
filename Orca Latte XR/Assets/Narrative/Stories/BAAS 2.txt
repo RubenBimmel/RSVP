@@ -1,0 +1,62 @@
+{
+  "passages": [
+    {
+      "text": "[Sarah]Hey again, what would you prefer I get to drink on the party?\n\n[Teunis]I would appreciate it if you would refrain from buying alcohol substances.\n[Teunis]I have no further opinions on drinks\n\n[[Please, could you elaborate?]]\n[[I'll take it into consideration]]\n[[Got it]]",
+      "links": [
+        {
+          "name": "Please, could you elaborate?",
+          "link": "Please, could you elaborate?",
+          "pid": "3"
+        },
+        {
+          "name": "I'll take it into consideration",
+          "link": "I'll take it into consideration",
+          "pid": "4"
+        },
+        {
+          "name": "Got it",
+          "link": "Got it",
+          "pid": "2"
+        }
+      ],
+      "name": "BAAS 2",
+      "pid": "1",
+      "position": {
+        "x": "426",
+        "y": "322"
+      }
+    },
+    {
+      "text": "[Sarah]Got it. \n\n[Teunis]Good.",
+      "name": "Got it",
+      "pid": "2",
+      "position": {
+        "x": "415",
+        "y": "599"
+      }
+    },
+    {
+      "text": "[Sarah]Is there a reason I should be careful with alcohol?\n\n[Teunis]Yes. It HAS to stay professional. \n[Teunis]Having it on your party means trouble. Either for the person drinking or for you. \n\n[Sarah]I'll keep it in mind, sir. ",
+      "name": "Please, could you elaborate?",
+      "pid": "3",
+      "position": {
+        "x": "286",
+        "y": "597"
+      }
+    },
+    {
+      "text": "[Sarah]I'll take it into consideration\n\n[Teunis]Sarah, it HAS to stay professional. \n[Teunis]Having it on your party means trouble. Either for the person drinking or for you. \n\n[Sarah]I'll keep it in mind, sir. ",
+      "name": "I'll take it into consideration",
+      "pid": "4",
+      "position": {
+        "x": "555",
+        "y": "600"
+      }
+    }
+  ],
+  "name": "BAAS 2",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "39943AEA-C461-4EB7-A356-37B38AF55934"
+}

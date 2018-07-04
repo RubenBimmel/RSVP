@@ -1,0 +1,164 @@
+{
+  "passages": [
+    {
+      "text": "[[Music]]\n[[Rapper sjors]]",
+      "links": [
+        {
+          "name": "Music",
+          "link": "Music",
+          "pid": "2"
+        },
+        {
+          "name": "Rapper sjors",
+          "link": "Rapper sjors",
+          "pid": "3"
+        }
+      ],
+      "name": "Migrantvrienden 5",
+      "pid": "1",
+      "position": {
+        "x": "347",
+        "y": "441"
+      }
+    },
+    {
+      "text": "[Sarah]What music do you guys like?\n\n[Mira]ooooh glad you ask\n[Mira]just got myself a new track\n[Mira]an album entirely about Allah\n\n[Afia]you mean 'Allah is the way' by Faith united??\n\n[Mira]jup ;)\n\n[Ahmad]oh my god ive been listening to their music for days\n[Ahmad]please take em to the party\n\n[[Agree]] \n[[Disagree]] \n[[Perhaps Rapper sjors?]] \n",
+      "links": [
+        {
+          "name": "Agree",
+          "link": "Agree",
+          "pid": "5"
+        },
+        {
+          "name": "Disagree",
+          "link": "Disagree",
+          "pid": "6"
+        },
+        {
+          "name": "Perhaps Rapper sjors?",
+          "link": "Perhaps Rapper sjors?",
+          "pid": "7"
+        }
+      ],
+      "name": "Music",
+      "pid": "2",
+      "position": {
+        "x": "224",
+        "y": "634"
+      }
+    },
+    {
+      "text": "[Sarah]You guys a fan of Rapper Sjors?\n\n[Mohammed]you mean those dutch songs about drugs and alcohol?\n[Mohammed]no of course not \n\n[Mira]what are you thinking??\n\n[Afia]no way\n\n[Adnan]no really not \n\n[[What music should we get then?]]\n[[Well I like rapper sjors]]\n",
+      "links": [
+        {
+          "name": "What music should we get then?",
+          "link": "What music should we get then?",
+          "pid": "4"
+        },
+        {
+          "name": "Well I like rapper sjors",
+          "link": "Well I like rapper sjors",
+          "pid": "10"
+        }
+      ],
+      "name": "Rapper sjors",
+      "pid": "3",
+      "position": {
+        "x": "539",
+        "y": "609"
+      }
+    },
+    {
+      "text": "[Sarah]What music should we get then?\n\n[Mira]glad you ask ;)\n[Mira]just got myself a new track\n[Mira]an album entirely about Allah\n\n[Afia]you mean 'Allah is the way' by Faith united??\n\n[Mira]jup ;)\n\n[Ahmad]oh my god ive been listening to their music for days\n[Ahmad]please take em to the party\n\n[[Agree]]\n[[Disagree]]",
+      "links": [
+        {
+          "name": "Agree",
+          "link": "Agree",
+          "pid": "5"
+        },
+        {
+          "name": "Disagree",
+          "link": "Disagree",
+          "pid": "6"
+        }
+      ],
+      "name": "What music should we get then?",
+      "pid": "4",
+      "position": {
+        "x": "549",
+        "y": "764"
+      }
+    },
+    {
+      "text": "[Sarah]Take the tracks with you :)\n\n[Mira]yes, theyre already in my backpack!",
+      "name": "Agree",
+      "pid": "5",
+      "position": {
+        "x": "400",
+        "y": "995"
+      }
+    },
+    {
+      "text": "[Sarah]I'm absolutely sure I cannot make my other friends listen to that kind of music\n\n[Afia]well they wont have a choice if you put it on\n\n[Mira]yeahhhh\n\n[Mohammed]just relax they wont think its that bad\n\n[Mira]my friends liked it and that says a lot\n\n[Adnan]it will be cool Sarah",
+      "name": "Disagree",
+      "pid": "6",
+      "position": {
+        "x": "550",
+        "y": "995"
+      }
+    },
+    {
+      "text": "[Sarah]You guys a fan of Rapper Sjors?\n\n[Mohammed]you mean those dutch songs about drugs and alcohol?\n[Mohammed]no of course not \n\n[Mira]what are you thinking??\n\n[Afia]no way\n\n[Adnan]no really not \n\n[[Agree with their music choice]]\n[[Disagree with their music choice]]",
+      "links": [
+        {
+          "name": "Agree with their music choice",
+          "link": "Agree with their music choice",
+          "pid": "8"
+        },
+        {
+          "name": "Disagree with their music choice",
+          "link": "Disagree with their music choice",
+          "pid": "9"
+        }
+      ],
+      "name": "Perhaps Rapper sjors?",
+      "pid": "7",
+      "position": {
+        "x": "184",
+        "y": "795"
+      }
+    },
+    {
+      "text": "[Sarah]Take the tracks with you :)\n\n[Mira]yes, theyre already in my backpack!",
+      "name": "Agree with their music choice",
+      "pid": "8",
+      "position": {
+        "x": "79",
+        "y": "982"
+      }
+    },
+    {
+      "text": "[Sarah]I'm absolutely sure I cannot make my other friends listen to that kind of music\n\n[Afia]well they wont have a choice if you put it on\n\n[Mira]yeahhhh\n\n[Mohammed]just relax they wont think its that bad\n\n[Mira]my friends liked it and that says a lot\n\n[Adnan]it will be cool Sarah\n",
+      "name": "Disagree with their music choice",
+      "pid": "9",
+      "position": {
+        "x": "253",
+        "y": "1033"
+      }
+    },
+    {
+      "text": "[Sarah]Well I like rapper sjors",
+      "name": "Well I like rapper sjors",
+      "pid": "10",
+      "position": {
+        "x": "767",
+        "y": "795"
+      }
+    }
+  ],
+  "name": "MIGRANTVRIENDEN 5",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "850CD475-3446-4EF2-B007-482A6CC96F15"
+}

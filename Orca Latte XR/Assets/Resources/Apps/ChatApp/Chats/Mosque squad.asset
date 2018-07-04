@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee5e6f9c4c9f9ab458dda7949652af4d, type: 3}
+  m_Name: Mosque squad
+  m_EditorClassIdentifier: 
+  story:
+    name: 
+    passages: []
+    currentPassage: 0
+    startPassage: 0
+    finished: 0
+    storyBeat: {fileID: 0}
+  image: {fileID: 21300000, guid: 063573eb48ae297419e4e9c32a0a4b67, type: 3}
+  contacts:
+  - {fileID: 11400000, guid: b60e1bee714855f42a39e571ec6c1bd4, type: 2}
+  - {fileID: 11400000, guid: 908cebe4700a58d4d8d9819ce26ffe9d, type: 2}
+  - {fileID: 11400000, guid: 58affb78321d69e4585aadc06d47e97e, type: 2}
+  - {fileID: 11400000, guid: ea40cb2d818864b4a8a23f718efb5d2f, type: 2}
+  - {fileID: 11400000, guid: 1380c0cbc3d8015409c2cbf48e74959d, type: 2}
+  - {fileID: 11400000, guid: 000ac489b306a2a47b331ab6227d90c9, type: 2}
+  unreadMessages: 29
+  preconversation: {fileID: 4900000, guid: 19ea5220ace7c94459dba7f841844cc0, type: 3}

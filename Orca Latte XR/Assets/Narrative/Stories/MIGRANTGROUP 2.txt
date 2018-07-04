@@ -1,0 +1,18 @@
+{
+  "passages": [
+    {
+      "text": "[Afia]Durian fruits as party snacks\n[Afia]what do you think\n\n[Ahmad]great! :O\n\n[Ibrahim]its fine\n\n[Mira]:)\n\n[Mohammed]yeah good\n\n[Adnan]superb\n\n[Ibrahim]But we just had those at the mosque\n\n[Mohammed]thats why she should pick those\n[Mohammed]they were delicious\n\n[Mira]yeahhh ;)",
+      "name": "MIGRANTVRIENDEN 2",
+      "pid": "1",
+      "position": {
+        "x": "412",
+        "y": "491"
+      }
+    }
+  ],
+  "name": "MIGRANTVRIENDEN 2",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "897CDCAB-2A7B-4EEB-98B2-94ED552D18DB"
+}

@@ -1,0 +1,18 @@
+{
+  "passages": [
+    {
+      "text": "[Sarah]Drinks. What do you guys want?\n\n[Thijs]BEEEEEEER\n[Thijs]Wodka\n[Thijs]Rum\n[Thijs]Gold strike\n\n[Juriaan]wodka + cola please. \n\n[Jan]wine?\n\n[Juriaan]No dude you want beer\n\n[Jan]I guess I agree?\n\n[Stijn]beer yes stuf with alcohol \n\n[Dirk]beer = alcohol = party\n[Dirk]also with what other drink are you gonna wash away bitterballen??",
+      "name": "collegas 3",
+      "pid": "1",
+      "position": {
+        "x": "244",
+        "y": "485"
+      }
+    }
+  ],
+  "name": "COLLEGA'S 3",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "7BB3378E-F9FF-4CE9-8EFF-FC1EE5BA6744"
+}

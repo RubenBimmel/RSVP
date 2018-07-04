@@ -1,0 +1,62 @@
+{
+  "passages": [
+    {
+      "text": "[Sarah]Hello mr Teunis. \n[Sarah]I'd like to ask you if you have a prefence for a theme.\n[Sarah]The party will most likely have one. \n\n[Teunis]I dont have an opinion on that matter. \n[Teunis]As long as it stays professional.\n[Teunis]Some time ago I had to fire someone who acted outragious on a company outing.\n\n[[We'll stay civilized, sir.]]\n[[I'll keep it in mind.]]\n[[That won't happen on my party]]",
+      "links": [
+        {
+          "name": "We'll stay civilized, sir.",
+          "link": "We'll stay civilized, sir.",
+          "pid": "2"
+        },
+        {
+          "name": "I'll keep it in mind.",
+          "link": "I'll keep it in mind.",
+          "pid": "3"
+        },
+        {
+          "name": "That won't happen on my party",
+          "link": "That won't happen on my party",
+          "pid": "4"
+        }
+      ],
+      "name": "BAAS 1",
+      "pid": "1",
+      "position": {
+        "x": "372",
+        "y": "376"
+      }
+    },
+    {
+      "text": "[Sarah]We'll stay civilized, sir.\n\n[Teunis]Good.",
+      "name": "We'll stay civilized, sir.",
+      "pid": "2",
+      "position": {
+        "x": "253",
+        "y": "565"
+      }
+    },
+    {
+      "text": "[Sarah]I'll keep it in mind.\n\n[Teunis]Good.",
+      "name": "I'll keep it in mind.",
+      "pid": "3",
+      "position": {
+        "x": "403",
+        "y": "565"
+      }
+    },
+    {
+      "text": "[Sarah]Respectfully sir, that won't happen on my party\n\n[Teunis]One can never be too careful.",
+      "name": "That won't happen on my party",
+      "pid": "4",
+      "position": {
+        "x": "534",
+        "y": "554"
+      }
+    }
+  ],
+  "name": "BAAS 1",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "818B9FE3-CF82-4DDE-BF76-88B1F6BECD4D"
+}

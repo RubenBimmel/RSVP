@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c459688497dea8e44a0971ba3b0b7552, type: 3}
+  m_Name: MigrantGroup5
+  m_EditorClassIdentifier: 
+  chat: {fileID: 11400000, guid: 22be68fe1071b8a45af19ae67b2963b4, type: 2}
+  story: {fileID: 4900000, guid: f25b3945651b51e4ba68fb0f32ccdd60, type: 3}
+  OnFinishedStory:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null

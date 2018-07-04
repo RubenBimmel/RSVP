@@ -1,0 +1,140 @@
+{
+  "passages": [
+    {
+      "text": "[Peter]but just to be clear\n[Peter]the party was bad and you looked like shit\n[Peter]a hijab? 4 real?\n\n[[What's wrong with a Hijab?]]\n[[Wait - was it all about my looks?]]\n[[Are you serious right now?]]",
+      "links": [
+        {
+          "name": "What's wrong with a Hijab?",
+          "link": "What's wrong with a Hijab?",
+          "pid": "2"
+        },
+        {
+          "name": "Wait - was it all about my looks?",
+          "link": "Wait - was it all about my looks?",
+          "pid": "3"
+        },
+        {
+          "name": "Are you serious right now?",
+          "link": "Are you serious right now?",
+          "pid": "4"
+        }
+      ],
+      "name": "PETER 7",
+      "pid": "1",
+      "position": {
+        "x": "668",
+        "y": "593"
+      }
+    },
+    {
+      "text": "[Sarah]What's wrong with a Hijab?\n\n[Peter]everything\n[Peter]you were so different than before\n[Peter]listen, im sorry\n\n[[Sorry? For what?]]\n[[Now you're apologizing?]]\n[[Are you feeling alright?]]",
+      "links": [
+        {
+          "name": "Sorry? For what?",
+          "link": "Sorry? For what?",
+          "pid": "5"
+        },
+        {
+          "name": "Now you're apologizing?",
+          "link": "Now you're apologizing?",
+          "pid": "6"
+        },
+        {
+          "name": "Are you feeling alright?",
+          "link": "Are you feeling alright?",
+          "pid": "7"
+        }
+      ],
+      "name": "What's wrong with a Hijab?",
+      "pid": "2",
+      "position": {
+        "x": "518",
+        "y": "743"
+      }
+    },
+    {
+      "text": "[Sarah]Wait - was it all about my looks?\n\n[Peter]maybe.\n[Peter]you just were totally different from what i expected\n[Peter]listen, im sorry\n\n[[Sorry? For what?]]\n[[Now you're apologizing?]]\n[[Are you feeling alright?]]",
+      "links": [
+        {
+          "name": "Sorry? For what?",
+          "link": "Sorry? For what?",
+          "pid": "5"
+        },
+        {
+          "name": "Now you're apologizing?",
+          "link": "Now you're apologizing?",
+          "pid": "6"
+        },
+        {
+          "name": "Are you feeling alright?",
+          "link": "Are you feeling alright?",
+          "pid": "7"
+        }
+      ],
+      "name": "Wait - was it all about my looks?",
+      "pid": "3",
+      "position": {
+        "x": "668",
+        "y": "743"
+      }
+    },
+    {
+      "text": "[Sarah]Are you serious right now?\n\n[Peter]why wouldnt i be?\n[Peter]listen, im sorry\n\n[[Sorry? For what?]]\n[[Now you're apologizing?]]\n[[Are you feeling alright?]]",
+      "links": [
+        {
+          "name": "Sorry? For what?",
+          "link": "Sorry? For what?",
+          "pid": "5"
+        },
+        {
+          "name": "Now you're apologizing?",
+          "link": "Now you're apologizing?",
+          "pid": "6"
+        },
+        {
+          "name": "Are you feeling alright?",
+          "link": "Are you feeling alright?",
+          "pid": "7"
+        }
+      ],
+      "name": "Are you serious right now?",
+      "pid": "4",
+      "position": {
+        "x": "817",
+        "y": "743"
+      }
+    },
+    {
+      "text": "[Sarah]Sorry? For what?\n[Sarah]What's going on with you?\n\nBLOCKED",
+      "name": "Sorry? For what?",
+      "pid": "5",
+      "position": {
+        "x": "519",
+        "y": "1060"
+      }
+    },
+    {
+      "text": "[Sarah]Now you're apologizing?\n[Sarah]What's going on with you?\n\nBLOCKED",
+      "name": "Now you're apologizing?",
+      "pid": "6",
+      "position": {
+        "x": "669",
+        "y": "1060"
+      }
+    },
+    {
+      "text": "[Sarah]What do you mean?\n[Sarah]Are you feeling alright?\n\nBLOCKED",
+      "name": "Are you feeling alright?",
+      "pid": "7",
+      "position": {
+        "x": "819",
+        "y": "1060"
+      }
+    }
+  ],
+  "name": "PETER 7",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "CCCE29FD-2DFD-4F30-9554-098D0A16C974"
+}
